@@ -1,0 +1,43 @@
+body{
+    background: linear-gradient(90deg, royalblue, lightgreen);
+}
+
+.txtname{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(90deg, royalblue, lightgreen);
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: 20px;
+    border-radius: 50px;
+    text-align: center;
+    border: none;
+    width: 200px;
+}
+
+.mybtn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: whitesmoke;
+    background: linear-gradient(90deg, royalblue, lightgreen);
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: none;
+}
